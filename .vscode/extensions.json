@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "hashicorp.terraform",
+    "juanblanco.solidity",
+    "ms-azuretools.vscode-docker",
+    "vue.volar"
+  ]
+}
